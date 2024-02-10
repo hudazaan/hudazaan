@@ -1,7 +1,7 @@
 [![MasterHead](https://www.instavyapar.com/assets/images/inner_services/Website_Redesigning_(2).gif)](http://ww25.rishavchanda.io/?subid1=20240211-0454-20db-a158-a5204b605261)
 <h1 align="center">Hi 👋, I'm Huda Naaz</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15215756-Coding-Animation-Concept/attachments/6961320?mode=media">
+<img align="right" alt="Coding" width="400" src="girlcode.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hudazaan&label=Profile%20views&color=0e75b6&style=flat" alt="hudazaan" /> </p>
 
@@ -12,6 +12,8 @@
 - 💬 Ask me about **Front-end, C++, Java, Wordpress**
 
 - 📫 How to reach me **naazhuda2000@gmail.com**
+
+- ⚡ Fun fact **I'm 5'0 lol**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
