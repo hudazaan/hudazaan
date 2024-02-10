@@ -1,4 +1,4 @@
-[![MasterHead](https://www.instavyapar.com/assets/images/inner_services/Website_Redesigning_(2).gif)](http://ww25.rishavchanda.io/?subid1=20240211-0454-20db-a158-a5204b605261)
+[![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)](http://ww25.rishavchanda.io/?subid1=20240211-0454-20db-a158-a5204b605261)
 <h1 align="center">Hi 👋, I'm Huda Naaz</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
