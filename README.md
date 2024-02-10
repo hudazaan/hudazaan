@@ -1,7 +1,7 @@
 [![MasterHead](https://www.instavyapar.com/assets/images/inner_services/Website_Redesigning_(2).gif)](http://ww25.rishavchanda.io/?subid1=20240211-0454-20db-a158-a5204b605261)
 <h1 align="center">Hi 👋, I'm Huda Naaz</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="girlcode.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hudazaan&label=Profile%20views&color=0e75b6&style=flat" alt="hudazaan" /> </p>
 
