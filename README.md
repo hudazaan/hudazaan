@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Realtime Chat Application**
 
-- 🌱 I’m currently learning **React, Typescript, Kotlin, DSA**
+- 🌱 I’m currently learning **React, Bootstrap, DSA**
 
 - 🤝 I’m looking for help with **PlantHub-An Ecommerce Website**
 
