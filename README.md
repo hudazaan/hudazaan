@@ -4,15 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hudazaan&label=Profile%20views&color=0e75b6&style=flat" alt="hudazaan" /> </p>
 
-- 🔭 I’m currently working on **Realtime Chat Application**
+- 🔭 I’m currently working on **Patient Appointment System**
 
 - 🌱 I’m currently learning **React, Bootstrap, AWS, DSA**
 
-- 💬 Ask me about **JavaScript, Node.js, C++, WordPress**
+- 💬 Ask me about **JavaScript, Node.js, C++, MongoDB**
 
 - 📫 How to reach me **naazhuda2000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13e1lkzJMs0xP-W1kButnSYCxCe8x9MH3/view?usp=drivesdk](https://drive.google.com/file/d/13e1lkzJMs0xP-W1kButnSYCxCe8x9MH3/view?usp=drivesdk)
 
 - ⚡ Fun fact **I'm 5'0 lol**
 
