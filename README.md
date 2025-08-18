@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Deep Learning based Synthesized Alien Script Translation Model**
 
-- 🌱 I’m currently learning **Data Structures, Generative AI, Machine Learning, GDSript, Godot Game Development, AWS Cloud**
+- 🌱 I’m currently learning **Data Structures, Generative AI, Machine Learning, GDSript, AWS Cloud**
 
 - 👯 I’m looking to collaborate on **Deep Learning based Synthesized Alien Script Translation Model**
 
