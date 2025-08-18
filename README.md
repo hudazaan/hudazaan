@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **naazhuda2000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13b-MLDwl1tREGX9ts8KCvzVDDWqzXyu7/view?usp=drivesdk](https://drive.google.com/file/d/13b-MLDwl1tREGX9ts8KCvzVDDWqzXyu7/view?usp=drivesdk)
-
 - ⚡ Fun fact **I'm 5'0 lol**
 
 <h3 align="left">Connect with me:</h3>
