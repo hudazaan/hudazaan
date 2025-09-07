@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hudazaan&label=Profile%20views&color=0e75b6&style=flat" alt="hudazaan" /> </p>
 
-- 🔭 I’m currently working on **Deep Learning based Synthesized Alien Script Translation Model**
-
 - 🌱 I’m currently learning **Data Structures, Generative AI, Machine Learning, GDSript, AWS Cloud**
 
 - 👯 I’m looking to collaborate on **Deep Learning based Synthesized Alien Script Translation Model**
