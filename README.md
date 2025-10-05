@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hudazaan&label=Profile%20views&color=0e75b6&style=flat" alt="hudazaan" /> </p>
 
-- 🌱 I’m currently learning **Data Structures, Generative AI, Machine Learning, GDSript, AWS Cloud**
+[![Go Interview Practice](https://raw.githubusercontent.com/RezaSi/go-interview-practice/main/badges/hudazaan.svg)](https://github.com/RezaSi/go-interview-practice)
+
+- 🌱 I’m currently learning **NextJs, Data Structures, Generative AI, Machine Learning**
 
 - 👯 I’m looking to collaborate on **Deep Learning based Synthesized Alien Script Translation Model**
 
