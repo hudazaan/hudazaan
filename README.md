@@ -24,4 +24,6 @@
 
 [![Go Interview Practice](https://raw.githubusercontent.com/RezaSi/go-interview-practice/main/badges/hudazaan.svg)](https://github.com/RezaSi/go-interview-practice)
 
+[![An image of @hudazaan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hudazaan)](https://holopin.io/@hudazaan)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hudazaan&" alt="hudazaan" /></p>
