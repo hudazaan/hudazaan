@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Huda Naaz</h1>
-<h3 align="center">A passionate Software Developer, Open-Source Contributor and Aspiring Cloud Engineer from India</h3>
+<h3 align="center">A passionate Software Developer, Open-Source Contributor and Cloud Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hudazaan&label=Profile%20views&color=0e75b6&style=flat" alt="hudazaan" /> </p>
 
 - 🌱 I’m currently learning **Data Structures, System Design, Machine Learning, AgenticAI, NLP, GoLang, Docker/Kubernetes, Cloud Computing, AWS, Linux, DevOps, CI/CD, Computer Networking**
 
-- 💬 Ask me about **Java, JavaScript, MERN Stack Development, Version Control, Tailwind, RESTful APIs, Scikit-Learn, NumPy, Pandas, FastAPI, Debugging, Writing/Documentation**
+- 💬 Ask me about **Java, JavaScript, MERN Stack Development, Version Control, Tailwind, RESTful APIs, Scikit-Learn, NumPy, FastAPI, Debugging, Writing/Documentation**
 
 - 📫 How to reach me **naazhuda2000@gmail.com**
 
